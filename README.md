@@ -185,8 +185,8 @@ while ( true ) {
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/math/base/special/beta`][@stdlib/math/base/special/beta]</span><span class="delimiter">: </span><span class="description">beta function.</span>
--   <span class="package-name">[`@stdlib/math/iter/special/betaln`][@stdlib/math/iter/special/betaln]</span><span class="delimiter">: </span><span class="description">create an iterator which evaluates the natural logarithm of the beta function.</span>
+-   <span class="package-name">[`@stdlib/math-base/special/beta`][@stdlib/math/base/special/beta]</span><span class="delimiter">: </span><span class="description">beta function.</span>
+-   <span class="package-name">[`@stdlib/math-iter/special/betaln`][@stdlib/math/iter/special/betaln]</span><span class="delimiter">: </span><span class="description">create an iterator which evaluates the natural logarithm of the beta function.</span>
 
 </section>
 
