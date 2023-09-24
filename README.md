@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import iterBeta from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-beta@deno/mod.js';
+import iterBeta from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-beta@v0.1.0-deno/mod.js';
 ```
 
 #### iterBeta( x, y )
@@ -133,7 +133,7 @@ var bool = it.next().done;
 
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-uniform@deno/mod.js';
-import iterBeta from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-beta@deno/mod.js';
+import iterBeta from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-iter-special-beta@v0.1.0-deno/mod.js';
 
 // Create seeded iterators for generating pseudorandom numbers:
 var x = uniform( 0.0, 2.0, {
